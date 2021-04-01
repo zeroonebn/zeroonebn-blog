@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello world!"
 date:   2021-03-29 15:28:45 -0400
-categories: welcome ibmi webapp
+author: Damien Ferrand
 ---
 Welcome to Zero One B N blog.
 
